@@ -21,3 +21,6 @@
 .container{
     padding: 25px 100px;
 }
+li:hover{
+    color: rgb(255, 255, 255);
+}
